@@ -1,5 +1,4 @@
 
-@
-java:S3457	"%String contains no format specifiers.(Šªž„ýÿÿÿÿ
-E	java:S106	"+Replace this use of System.out by a logger.(Šªž„ýÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßÃ â8Ï½’×ù1J$89bf6131-b78c-49ad-acd9-5580211471ee
+m	java:S106"+Replace this use of System.out by a logger.(ßÃ â8óùçÖù1J$bb114887-1018-4bf9-b20e-dd7b2be3e201
