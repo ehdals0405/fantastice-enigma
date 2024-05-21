@@ -23,6 +23,6 @@ interface Calculable {
 class OOOExpression implements Calculable{
     @Override
     public int calculate(int param) {
-        return param;
+        return param+10;
     }
 }
